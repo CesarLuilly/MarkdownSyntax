@@ -1,10 +1,15 @@
 # MarkdownSyntax
 
 *Texto en cursiva*
+
 _Texto en cursiva_
+
 **Texto en negrita**
+
 __Texto en negrita__
+
 ***Texto en cursiva y negrita***
+
 ___Texto en cursiva y negrita___
 
 
